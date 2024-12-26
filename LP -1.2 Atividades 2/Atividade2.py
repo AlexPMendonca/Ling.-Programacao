@@ -18,4 +18,5 @@ if a < b + c and b < a + c and c < a + b:
     print(f"Os valores formam um triângulo e sua área é: {area:.2f}")
 else:
     print(f"Os valores não formam um triângulo: {a}, {b}, {c}")
-    #Alex
+    #Alex Mmendonca 
+
